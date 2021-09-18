@@ -1,4 +1,4 @@
 linha 1
-linha 2 alterada
-linha 3
+linha 2 alterada 
+linha 3 alterada para merge
 linha 4
