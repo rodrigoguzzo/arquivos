@@ -1,4 +1,4 @@
 linha 1
 linha 2 alterada
 linha 3 alter
-linha 4 como fica?
+linha 4 como fica ?
